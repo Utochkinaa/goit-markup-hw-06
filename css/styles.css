@@ -133,9 +133,6 @@ img {
   color: var(--link-active)
 }
 
-
-
-
 .header-group .list-item + .list-item {
   margin-left: auto;
   margin-right: 0;
@@ -791,8 +788,7 @@ img {
 }
 
 .overlay.is-hidden {
-  opacity: 0;
-  
+  opacity: 0; 
 }
 
 
@@ -801,7 +797,6 @@ img {
   transform: translateY(0);
   opacity: 1;
 }
-
 
 
 /* MODAL WINDOW */
